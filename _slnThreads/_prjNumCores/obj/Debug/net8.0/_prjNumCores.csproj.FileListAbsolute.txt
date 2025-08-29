@@ -1,0 +1,14 @@
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\bin\Debug\net8.0\_prjNumCores.exe
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\bin\Debug\net8.0\_prjNumCores.deps.json
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\bin\Debug\net8.0\_prjNumCores.runtimeconfig.json
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\bin\Debug\net8.0\_prjNumCores.dll
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\bin\Debug\net8.0\_prjNumCores.pdb
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.AssemblyInfo.cs
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.dll
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\refint\_prjNumCores.dll
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.pdb
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\_prjNumCores.genruntimeconfig.cache
+C:\Users\android\source\repos\_slnThreads\_prjNumCores\obj\Debug\net8.0\ref\_prjNumCores.dll
